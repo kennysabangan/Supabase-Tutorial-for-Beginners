@@ -111,3 +111,13 @@ form button {
   font-family: "Poppins";
   cursor: pointer;
 }
+
+.ascending-select {
+  background: black;
+  color: white;
+  border: 0;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-family: "Poppins";
+  cursor: pointer;
+}
