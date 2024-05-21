@@ -48,7 +48,6 @@ const Home = () => {
                 className="ascending-select"
                 onChange={(e) => {
                   setIsOrderAscending(e.target.value === "true");
-                  console.log(e.target.value);
                 }}
               >
                 <option value={false}>Descending</option>
